@@ -6,7 +6,12 @@
       "date": "2021-04-02",
       "lastModifiedDate": "2021-07-11",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "eslint", "npm"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "eslint",
+        "npm"
+      ],
       "canonicalLink": "https://dev.to/bwca/create-a-custom-eslint-rule-with-typescript-4j3d"
     },
     "path": "2021-04-02-create-a-custom-eslint-rule-with-typescript.md"
@@ -18,7 +23,12 @@
       "date": "2021-04-13",
       "lastModifiedDate": "2021-04-13",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "angular", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "angular",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/create-object-property-string-path-generator-with-typescript-13e3"
     },
     "path": "2021-04-13-create-object-property-string-path-generator-with-typescript/2021-04-13-create-object-property-string-path-generator-with-typescript.md"
@@ -30,7 +40,11 @@
       "date": "2021-05-12",
       "lastModifiedDate": "2021-05-12",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/build-entity-friendly-react-router-paths-generator-with-typescript-fpd"
     },
     "path": "2021-05-12-build-entity-friendly-react-router-path-generator-with-typescript.md"
@@ -42,7 +56,10 @@
       "date": "2021-06-28",
       "lastModifiedDate": "2021-06-28",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/split-collection-based-on-enum-value-with-typescript-4g3b"
     },
     "path": "2021-06-28-split-collection-based-on-enum-values/2021-06-28-split-collection-based-on-enum-values.md"
@@ -54,7 +71,10 @@
       "date": "2021-07-14",
       "lastModifiedDate": "2021-07-14",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/make-your-own-linkedin-promoted-posts-blocker-fj5"
     },
     "path": "2021-07-14-make-you-own-linkedin-promoted-posts-blocker.md"
@@ -66,7 +86,9 @@
       "date": "2021-08-08",
       "lastModifiedDate": "2021-08-08",
       "author": "Volodymyr Yepishev",
-      "tags": ["angular"],
+      "tags": [
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/how-i-decided-to-write-react-cli-and-how-it-went-4f19"
     },
     "path": "2021-08-08-how-i-decided-to-write-react-cli-and-how-it-went/2021-08-08-how-i-decided-to-write-react-cli-and-how-it-went.md"
@@ -78,7 +100,11 @@
       "date": "2022-03-29",
       "lastModifiedDate": "2022-03-29",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/remove-double-imports-with-regular-expression-47af"
     },
     "path": "2022-03-29-remove-double-imports-with-regular-expression.md"
@@ -90,7 +116,11 @@
       "date": "2022-04-12",
       "lastModifiedDate": "2022-04-12",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/decorating-react-hook-with-typescript-bd9"
     },
     "path": "2022-04-12-decorating-react-hook-with-typescript.md"
@@ -102,7 +132,10 @@
       "date": "2022-04-22",
       "lastModifiedDate": "2022-04-22",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/override-method-return-with-a-decorator-1bii"
     },
     "path": "2022-04-22-change-api-response-with-a-decorator.md"
@@ -114,7 +147,12 @@
       "date": "2022-05-25",
       "lastModifiedDate": "2022-05-25",
       "author": "Volodymyr Yepishev",
-      "tags": ["angular", "tutorial", "chrome", "extension"],
+      "tags": [
+        "angular",
+        "tutorial",
+        "chrome",
+        "extension"
+      ],
       "canonicalLink": "https://dev.to/bwca/turn-angular-application-into-chrome-extension-2mkn"
     },
     "path": "2022-05-25-turn-angular-application-into-chrome-extension.md"
@@ -126,7 +164,14 @@
       "date": "2022-06-30",
       "lastModifiedDate": "2022-06-30",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "generics", "conversion", "date", "moment"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "generics",
+        "conversion",
+        "date",
+        "moment"
+      ],
       "canonicalLink": "https://dev.to/bwca/typed-dates-conversion-with-typescript-49n7"
     },
     "path": "2022-06-30-typed-date-conversion-with-typescript.md"
@@ -138,7 +183,10 @@
       "date": "2022-07-29",
       "lastModifiedDate": "2022-07-29",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/weekday-date-month-type-26j4"
     },
     "path": "2022-07-29-week-day-date-month-type.md"
@@ -150,7 +198,10 @@
       "date": "2022-08-03",
       "lastModifiedDate": "2022-08-03",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/an-alternative-way-of-creating-enumerations-in-typescript-579k"
     },
     "path": "2022-08-03-an-alternative-way-of-creating-enumerations-in-typescript.md"
@@ -162,7 +213,10 @@
       "date": "2022-08-12",
       "lastModifiedDate": "2022-08-12",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/create-a-static-class-in-typescript-5ao1"
     },
     "path": "2022-08-12-create-static-class-in-typescript.md"
@@ -174,7 +228,10 @@
       "date": "2022-08-20",
       "lastModifiedDate": "2022-08-20",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/typescript-class-mixins-3hib"
     },
     "path": "2022-08-20-typescript-class-mixins.md"
@@ -186,7 +243,11 @@
       "date": "2022-08-22",
       "lastModifiedDate": "2022-08-22",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "react", "tutorial"],
+      "tags": [
+        "typescript",
+        "react",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/using-classes-inside-reacts-functional-components-oj3"
     },
     "path": "2022-08-22-using-classes-inside-react-functional-component.md"
@@ -198,7 +259,11 @@
       "date": "2022-08-29",
       "lastModifiedDate": "2022-08-29",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "angular", "tutorial"],
+      "tags": [
+        "typescript",
+        "angular",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/debouncing-component-methods-in-angular-34im"
     },
     "path": "2022-08-29-debouncing-component-methods-in-angular.md"
@@ -210,7 +275,10 @@
       "date": "2022-09-02",
       "lastModifiedDate": "2022-09-02",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "angular"],
+      "tags": [
+        "typescript",
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/a-trick-to-further-breaking-down-angular-components-1i8a"
     },
     "path": "2022-09-02-a-trick-to-further-breaking-angular-components.md"
@@ -222,7 +290,10 @@
       "date": "2022-11-09",
       "lastModifiedDate": "2022-11-09",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/typed-enum-flipping-in-typescript-2ce9"
     },
     "path": "2022-11-09-typed-enum-flipping-in-typescript.md"
@@ -234,7 +305,11 @@
       "date": "2022-12-01",
       "lastModifiedDate": "2022-12-01",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "generics"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "generics"
+      ],
       "canonicalLink": "https://dev.to/bwca/typed-filtering-with-generics-in-typescript-204f"
     },
     "path": "2022-12-01-typed-filtering-with-generics.md"
@@ -246,7 +321,9 @@
       "date": "2023-05-15",
       "lastModifiedDate": "2023-05-15",
       "author": "Volodymyr Yepishev",
-      "tags": ["angular"],
+      "tags": [
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/template-driving-reactive-form-validation-in-angular-302e"
     },
     "path": "2023-05-15-template-driving-reactive-form-validation/2023-05-15-template-driving-reactive-form-validation-in-angular.md"
@@ -258,7 +335,10 @@
       "date": "2023-05-17",
       "lastModifiedDate": "2023-05-17",
       "author": "Volodymyr Yepishev",
-      "tags": ["angular", "debugger"],
+      "tags": [
+        "angular",
+        "debugger"
+      ],
       "canonicalLink": "https://dev.to/bwca/detect-invalid-formgroup-tree-in-angular-1ed"
     },
     "path": "2023-05-17-detect-invalid-form-group-tree-in-angular/2023-05-17-detect-invalid-form-group-tree-in-angular.md"
@@ -270,7 +350,12 @@
       "date": "2023-07-22",
       "lastModifiedDate": "2023-07-28",
       "author": "Volodymyr Yepishev",
-      "tags": ["angular", "tutorial", "routing", "generics"],
+      "tags": [
+        "angular",
+        "tutorial",
+        "routing",
+        "generics"
+      ],
       "canonicalLink": "https://dev.to/bwca/safe-route-param-injection-in-angular-with-a-decorator-1lk7"
     },
     "path": "2023-07-22-safe-route-param-injection-in-angular-with-a-decorator.md"
@@ -282,7 +367,10 @@
       "date": "2023-09-16",
       "lastModifiedDate": "2024-06-26",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/deep-readonly-generic-in-typescript-4b04"
     },
     "path": "2023-09-16-deep-readonly-generic-in-typescript.md"
@@ -294,7 +382,11 @@
       "date": "2023-11-01",
       "lastModifiedDate": "2023-11-01",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "generics", "tutorial"],
+      "tags": [
+        "typescript",
+        "generics",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/typing-object-keys-with-enum-values-using-typescript-4k23"
     },
     "path": "2023-11-01-typing-object-keys-with-enum-values-using-typescript.md"
@@ -306,7 +398,10 @@
       "date": "2024-03-13",
       "lastModifiedDate": "2024-03-13",
       "author": "Volodymyr Yepishev",
-      "tags": ["javascript", "tutorial"],
+      "tags": [
+        "javascript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/how-to-create-bookmarklets-using-libraries-like-react-2bhc"
     },
     "path": "2024-03-13-how-to-create-bookmarklets-using-external-libraries-like-react/2024-03-13-how-to-create-bookmarklets-using-external-libraries-like-react.md"
@@ -318,7 +413,10 @@
       "date": "2024-03-29",
       "lastModifiedDate": "2024-03-29",
       "author": "Volodymyr Yepishev",
-      "tags": ["javascript", "tutorial"],
+      "tags": [
+        "javascript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/annoying-cat-extension-4eaf"
     },
     "path": "2024-03-29-writing-annoying-image-browser-extension/2024-03-29-writing-annoying-image-browser-extension.md"
@@ -330,7 +428,12 @@
       "date": "2024-04-15",
       "lastModifiedDate": "2024-04-15",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "angular", "generics"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "angular",
+        "generics"
+      ],
       "canonicalLink": "https://dev.to/bwca/improving-dynamic-component-loader-typings-in-angular-using-inputs-obl"
     },
     "path": "2024-04-15-improving-dynamic-component-loader-typings-in-angular-using-inputs/2024-04-15-improving-dynamic-component-loader-typings-in-angular-using-inputs.md"
@@ -342,7 +445,12 @@
       "date": "2024-05-06",
       "lastModifiedDate": "2024-05-06",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "angular", "rxjs"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "angular",
+        "rxjs"
+      ],
       "canonicalLink": "https://dev.to/bwca/reducing-the-boilerplate-for-services-utilizing-subjects-in-angular-44fp"
     },
     "path": "2024-05-06-reducing-the-boilerplate-for-stateful-services-in-angular/2024-05-06-reducing-the-boilerplate-for-stateful-services-in-angular.md"
@@ -354,7 +462,12 @@
       "date": "2024-05-18",
       "lastModifiedDate": "2024-05-18",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react", "state"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react",
+        "state"
+      ],
       "canonicalLink": "https://dev.to/bwca/crafting-a-global-state-hook-in-react-4hb4"
     },
     "path": "2024-05-18-crafting-a-global-state-hook-in-react/2024-05-18-crafting-a-global-state-hook-in-react.md"
@@ -366,7 +479,11 @@
       "date": "2024-06-03",
       "lastModifiedDate": "2024-06-03",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "angular"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/abstracting-state-management-in-react-with-typescript-and-its-benefits-8mk"
     },
     "path": "2024-06-03-abstracting-state-management-in-react-and-its-benefits/2024-06-03-abstracting-state-management-in-react-and-its-benefits.md"
@@ -378,7 +495,11 @@
       "date": "2024-06-08",
       "lastModifiedDate": "2024-06-08",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "angular"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/runtime-environment-config-in-angular-but-without-dependency-injection-kno"
     },
     "path": "2024-06-08-runtime-environment-config-in-angular-but-without-dependency-injection/2024-06-08-runtime-environment-config-in-angular-but-without-dependency-injection.md"
@@ -386,11 +507,17 @@
   {
     "metadata": {
       "name": "Create a Debounce Function from Scratch in Typescript",
-      "series": { "name": "Implementing Debounce with Typescript", "part": 0 },
+      "series": {
+        "name": "Implementing Debounce with Typescript",
+        "part": 0
+      },
       "date": "2021-08-26",
       "lastModifiedDate": "2022-04-07",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/create-a-debounce-function-from-scratch-in-typescript-560m"
     },
     "path": "create-a-debounce-function-from-scratch-in-typescript/2021-08-26-part-0-create-a-debounce-function-from-scratch-in-typescript.md"
@@ -398,11 +525,17 @@
   {
     "metadata": {
       "name": "Polish Types for the New Debounce Function",
-      "series": { "name": "Implementing Debounce with Typescript", "part": 1 },
+      "series": {
+        "name": "Implementing Debounce with Typescript",
+        "part": 1
+      },
       "date": "2022-04-06",
       "lastModifiedDate": "2022-04-06",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/polish-types-for-the-new-debounce-function-5e0n"
     },
     "path": "create-a-debounce-function-from-scratch-in-typescript/2022-04-06-part-1-polish-types-for-the-new-debounce-function.md"
@@ -410,11 +543,18 @@
   {
     "metadata": {
       "name": "Caching Decorator",
-      "series": { "name": "Decorator Memoization", "part": 0 },
+      "series": {
+        "name": "Decorator Memoization",
+        "part": 0
+      },
       "date": "2022-06-06",
       "lastModifiedDate": "2024-06-26",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "decorators"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "decorators"
+      ],
       "canonicalLink": "https://dev.to/bwca/caching-decorator-52e1"
     },
     "path": "decorator-memoization/2022-06-06-part-0-caching-decorator.md"
@@ -422,11 +562,18 @@
   {
     "metadata": {
       "name": "Memoize Decorator",
-      "series": { "name": "Decorator Memoization", "part": 1 },
+      "series": {
+        "name": "Decorator Memoization",
+        "part": 1
+      },
       "date": "2022-07-12",
       "lastModifiedDate": "2022-07-12",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "decorators"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "decorators"
+      ],
       "canonicalLink": "https://dev.to/bwca/memoize-decorator-5aoo"
     },
     "path": "decorator-memoization/2022-07-12-part-1-memoize-decorator.md"
@@ -434,11 +581,18 @@
   {
     "metadata": {
       "name": "Implementing React Check Permissions. Part 0: Intro",
-      "series": { "name": "Implementing React Check Permissions", "part": 0 },
+      "series": {
+        "name": "Implementing React Check Permissions",
+        "part": 0
+      },
       "date": "2021-10-29",
       "lastModifiedDate": "2021-10-30",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/implementing-reach-check-permissions-part-0-intro-1inc"
     },
     "path": "impementing-react-check-permission/2021-10-29-part-0-intro.md"
@@ -446,11 +600,18 @@
   {
     "metadata": {
       "name": "Implementing React Check Permissions. Part 1: Check Permissions Function",
-      "series": { "name": "Implementing React Check Permissions", "part": 1 },
+      "series": {
+        "name": "Implementing React Check Permissions",
+        "part": 1
+      },
       "date": "2021-10-30",
       "lastModifiedDate": "2021-10-30",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/implementing-reach-check-permissions-part-1-check-permissions-function-136l"
     },
     "path": "impementing-react-check-permission/2021-10-30-part-1-check-permissions-function.md"
@@ -458,11 +619,18 @@
   {
     "metadata": {
       "name": "Implementing React Check Permissions. Part 2: Check Permissions Hook",
-      "series": { "name": "Implementing React Check Permissions", "part": 2 },
+      "series": {
+        "name": "Implementing React Check Permissions",
+        "part": 2
+      },
       "date": "2021-11-01",
       "lastModifiedDate": "2021-11-01",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/implementing-react-check-permissions-the-hook-3m20"
     },
     "path": "impementing-react-check-permission/2021-11-01-part-2-use-check-permissions.md"
@@ -470,11 +638,18 @@
   {
     "metadata": {
       "name": "Implementing React Check Permissions. Part 3: with Permissions Component",
-      "series": { "name": "Implementing React Check Permissions", "part": 3 },
+      "series": {
+        "name": "Implementing React Check Permissions",
+        "part": 3
+      },
       "date": "2021-11-04",
       "lastModifiedDate": "2021-11-04",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "react"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "react"
+      ],
       "canonicalLink": "https://dev.to/bwca/implementing-react-check-permissions-the-component-3gjm"
     },
     "path": "impementing-react-check-permission/2021-11-04-part-3-with-permissions-component.md"
@@ -482,11 +657,20 @@
   {
     "metadata": {
       "name": "Iframe Microfrontends: Intro and Setup",
-      "series": { "name": "Iframe Microfrontends", "part": 0 },
+      "series": {
+        "name": "Iframe Microfrontends",
+        "part": 0
+      },
       "date": "2022-05-30",
       "lastModifiedDate": "2022-05-30",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "microfrontends",
+        "react",
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-intro-and-setup-1g7h"
     },
     "path": "implement-iframe-microfrontend/2022-05-30-part-0-intro-and-setup.md"
@@ -494,11 +678,20 @@
   {
     "metadata": {
       "name": "Iframe Microfrontends: Standalone React Application",
-      "series": { "name": "Iframe Microfrontends", "part": 1 },
+      "series": {
+        "name": "Iframe Microfrontends",
+        "part": 1
+      },
       "date": "2022-05-31",
       "lastModifiedDate": "2022-05-31",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "microfrontends",
+        "react",
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-standalone-react-application-341f"
     },
     "path": "implement-iframe-microfrontend/2022-05-31-part-1-standalone-react-application.md"
@@ -506,11 +699,20 @@
   {
     "metadata": {
       "name": "Iframe Microfrontends: Angular Shell",
-      "series": { "name": "Iframe Microfrontends", "part": 2 },
+      "series": {
+        "name": "Iframe Microfrontends",
+        "part": 2
+      },
       "date": "2022-05-31",
       "lastModifiedDate": "2022-05-31",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "microfrontends",
+        "react",
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-angular-shell-pmj"
     },
     "path": "implement-iframe-microfrontend/2022-05-31-part-2-angular-shell-application.md"
@@ -518,11 +720,20 @@
   {
     "metadata": {
       "name": "Iframe Microfrontends: Make React App Proper Iframe",
-      "series": { "name": "Iframe Microfrontends", "part": 3 },
+      "series": {
+        "name": "Iframe Microfrontends",
+        "part": 3
+      },
       "date": "2022-06-01",
       "lastModifiedDate": "2022-06-01",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "microfrontends", "react", "angular"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "microfrontends",
+        "react",
+        "angular"
+      ],
       "canonicalLink": "https://dev.to/bwca/iframe-microfrontends-make-react-app-proper-iframe-12g9"
     },
     "path": "implement-iframe-microfrontend/2022-06-01-part-3-make-react-app-proper-iframe.md"
@@ -530,11 +741,18 @@
   {
     "metadata": {
       "name": "Create Singleton with ES2022",
-      "series": { "name": "Singleton", "part": 1 },
+      "series": {
+        "name": "Singleton",
+        "part": 1
+      },
       "date": "2022-06-25",
       "lastModifiedDate": "2022-07-01",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial", "javascript"],
+      "tags": [
+        "typescript",
+        "tutorial",
+        "javascript"
+      ],
       "canonicalLink": "https://dev.to/bwca/create-singleton-with-es2022-51ic"
     },
     "path": "singleton/2022-06-25-part-1-create-singleton-with-es2022.md"
@@ -542,11 +760,17 @@
   {
     "metadata": {
       "name": "Singleton Decorator",
-      "series": { "name": "Singleton", "part": 0 },
+      "series": {
+        "name": "Singleton",
+        "part": 0
+      },
       "date": "2022-07-01",
       "lastModifiedDate": "2022-07-01",
       "author": "Volodymyr Yepishev",
-      "tags": ["typescript", "tutorial"],
+      "tags": [
+        "typescript",
+        "tutorial"
+      ],
       "canonicalLink": "https://dev.to/bwca/singleton-decorator-526h"
     },
     "path": "singleton/2022-07-01-part-0-singleton-decorator.md"
