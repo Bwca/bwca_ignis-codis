@@ -21,7 +21,7 @@
       "name": "Create Object Property String Path Generator with Typescript",
       "series": null,
       "date": "2021-04-13",
-      "lastModifiedDate": "2021-04-13",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -38,7 +38,7 @@
       "name": "Build Entity-Friendly react-router Paths Generator with Typescript",
       "series": null,
       "date": "2021-05-12",
-      "lastModifiedDate": "2021-05-12",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -54,7 +54,7 @@
       "name": "Split Collection Based on Enum Value with Typescript",
       "series": null,
       "date": "2021-06-28",
-      "lastModifiedDate": "2021-06-28",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -69,7 +69,7 @@
       "name": "Make Your Own Linkedin Promoted Posts Blocker",
       "series": null,
       "date": "2021-07-14",
-      "lastModifiedDate": "2021-07-14",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -84,7 +84,7 @@
       "name": "How I Decided to Write React cli and How it Went",
       "series": null,
       "date": "2021-08-08",
-      "lastModifiedDate": "2021-08-08",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "angular"
@@ -226,7 +226,7 @@
       "name": "Typescript Class Mixins",
       "series": null,
       "date": "2022-08-20",
-      "lastModifiedDate": "2022-08-20",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -319,7 +319,7 @@
       "name": "Template Driving Reactive Form Validation in Angular",
       "series": null,
       "date": "2023-05-15",
-      "lastModifiedDate": "2023-05-15",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "angular"
@@ -365,7 +365,7 @@
       "name": "Deep Readonly Generic in Typescript",
       "series": null,
       "date": "2023-09-16",
-      "lastModifiedDate": "2024-06-26",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -380,7 +380,7 @@
       "name": "Typing Object Keys With Enum Values Using Typescript",
       "series": null,
       "date": "2023-11-01",
-      "lastModifiedDate": "2023-11-01",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -411,7 +411,7 @@
       "name": "Annoying Cat Extension",
       "series": null,
       "date": "2024-03-29",
-      "lastModifiedDate": "2024-03-29",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "javascript",
@@ -426,7 +426,7 @@
       "name": "Improving Dynamic Component Loader Typings in Angular Using Inputs",
       "series": null,
       "date": "2024-04-15",
-      "lastModifiedDate": "2024-04-15",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -443,7 +443,7 @@
       "name": "Reducing the Boilerplate for Services Utilizing Subjects in Angular",
       "series": null,
       "date": "2024-05-06",
-      "lastModifiedDate": "2024-05-06",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -460,7 +460,7 @@
       "name": "Crafting a Global State Hook in React",
       "series": null,
       "date": "2024-05-18",
-      "lastModifiedDate": "2024-05-18",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -477,7 +477,7 @@
       "name": "Abstracting State Management in React with Typescript, and its Benefits",
       "series": null,
       "date": "2024-06-03",
-      "lastModifiedDate": "2024-06-03",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -493,7 +493,7 @@
       "name": "Runtime Environment Config in Angular, but without Dependency Injection",
       "series": null,
       "date": "2024-06-08",
-      "lastModifiedDate": "2024-06-08",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -530,7 +530,7 @@
         "part": 1
       },
       "date": "2022-04-06",
-      "lastModifiedDate": "2022-04-06",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -567,7 +567,7 @@
         "part": 1
       },
       "date": "2022-07-12",
-      "lastModifiedDate": "2022-07-12",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -586,7 +586,7 @@
         "part": 0
       },
       "date": "2021-10-29",
-      "lastModifiedDate": "2021-10-30",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -643,7 +643,7 @@
         "part": 3
       },
       "date": "2021-11-04",
-      "lastModifiedDate": "2021-11-04",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -683,7 +683,7 @@
         "part": 1
       },
       "date": "2022-05-31",
-      "lastModifiedDate": "2022-05-31",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -704,7 +704,7 @@
         "part": 2
       },
       "date": "2022-05-31",
-      "lastModifiedDate": "2022-05-31",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
@@ -725,7 +725,7 @@
         "part": 3
       },
       "date": "2022-06-01",
-      "lastModifiedDate": "2022-06-01",
+      "lastModifiedDate": "2024-07-09",
       "author": "Volodymyr Yepishev",
       "tags": [
         "typescript",
