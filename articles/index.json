@@ -95,6 +95,22 @@
   },
   {
     "metadata": {
+      "name": "The Easiest Way to Unsubscribe from Observables in Angular",
+      "series": null,
+      "date": "2021-12-18",
+      "lastModifiedDate": "2021-12-19",
+      "author": "Volodymyr Yepishev",
+      "tags": [
+        "typescript",
+        "angular",
+        "tutorial"
+      ],
+      "canonicalLink": "https://dev.to/bwca/the-easiest-way-to-unsubscribe-from-observables-in-angular-4cg4"
+    },
+    "path": "2021-12-18-the-easiest-way-to-unsubscribe-from-observables-in-angular/2021-12-18-the-easiest-way-to-unsubscribe-from-observables-in-angular.md"
+  },
+  {
+    "metadata": {
       "name": "Remove Double Imports with Regular Expression",
       "series": null,
       "date": "2022-03-29",
@@ -503,6 +519,71 @@
       "canonicalLink": "https://dev.to/bwca/runtime-environment-config-in-angular-but-without-dependency-injection-kno"
     },
     "path": "2024-06-08-runtime-environment-config-in-angular-but-without-dependency-injection/2024-06-08-runtime-environment-config-in-angular-but-without-dependency-injection.md"
+  },
+  {
+    "metadata": {
+      "name": "Automating Addressing Pull Request Comments with AI",
+      "series": null,
+      "date": "2025-10-24",
+      "lastModifiedDate": "2025-10-24",
+      "author": "Volodymyr Yepishev",
+      "tags": [
+        "typescript",
+        "ai",
+        "automation"
+      ],
+      "canonicalLink": "https://dev.to/bwca/automating-addressing-pr-comments-with-ai"
+    },
+    "path": "2025-10-24-automating-addressing-pr-comments-with-ai/2025-10-24-automating-addressing-pr-comments-with-ai.md"
+  },
+  {
+    "metadata": {
+      "name": "The Hidden AI Tax on Tech Debt",
+      "series": null,
+      "date": "2025-11-17",
+      "lastModifiedDate": "2025-11-18",
+      "author": "Volodymyr Yepishev",
+      "tags": [
+        "ai",
+        "architecture",
+        "productivity"
+      ],
+      "canonicalLink": "https://dev.to/bwca/the-hidden-ai-tax-on-tech-debt-4k10"
+    },
+    "path": "2025-11-17-the-hidden-ai-tax-on-tech-debt/2025-11-17-the-hidden-ai-tax-on-tech-debt.md"
+  },
+  {
+    "metadata": {
+      "name": "A Framework-Agnostic and Source-Aware Approach to E2E Test Generation With AI",
+      "series": null,
+      "date": "2025-11-22",
+      "lastModifiedDate": "2025-11-22",
+      "author": "Volodymyr Yepishev",
+      "tags": [
+        "ai",
+        "tutorial",
+        "e2e"
+      ],
+      "canonicalLink": null
+    },
+    "path": "2025-11-22-a-framework-agnostic-and-source-aware-approach-to-e2e-test-generation-with-ai/2025-11-22-a-framework-agnostic-and-source-aware-approach-to-e2e-test-generation-with-ai.md"
+  },
+  {
+    "metadata": {
+      "name": "Shape Your Own UX with AI",
+      "series": null,
+      "date": "2026-04-09",
+      "lastModifiedDate": "2026-04-09",
+      "author": "Volodymyr Yepishev",
+      "tags": [
+        "ai",
+        "howto",
+        "frontend",
+        "hobby"
+      ],
+      "canonicalLink": "https://dev.to/bwca/shape-your-own-ux-with-ai-4khn"
+    },
+    "path": "2026-04-09-shape-your-own-ux-with-ai/2026-04-09-shape-your-own-ux-with-ai.md"
   },
   {
     "metadata": {
